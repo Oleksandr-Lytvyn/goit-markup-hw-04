@@ -348,6 +348,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 24px;
+  padding-right: 24px;
   border: 1px solid var(--lightgrey-color);
   border-top: none;
 }
